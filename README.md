@@ -1,2 +1,2 @@
 # College-Projects
-OUR project
+OUR projects
